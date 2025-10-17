@@ -1,0 +1,1 @@
+This html report showcases my skills in data research, data integrity, data ETL (extraction, transformation and loading), data exploration, data cleaning, data analysis, data visualization, data story-telling, and data-driven decision-making.
