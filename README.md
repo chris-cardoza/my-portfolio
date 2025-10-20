@@ -1,1 +1,3 @@
-I created this analytics report in html using R programming language to showcase my skills in data research, data integrity, data ETL (extraction, transformation and loading), data exploration, data cleaning, data analysis, data visualization, data story-telling, and data-driven decision-making.
+**About:** I created this analytics report in html format using R programming language to showcase my skills in data research, data integrity, data ETL (extraction, transformation and loading), data exploration, data cleaning, data analysis, data visualization, data story-telling, and data-driven decision-making.
+
+**Instructions:** To view this report, (1) click on the file named 'Data Analysis Report - Kingston Development Study.html'; (2) click on 'Download' from the dropdown menu located in the top right, or, click on the 'Download raw file' icon; (3) Double-click the file from your Downloads folder to open the html report on your web browser such as Google Chrome.
